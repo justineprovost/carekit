@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="896" viewBox="0 0 414 896">
+  <defs>
+    <filter id="Rectangle_2" x="34.5" y="333.5" width="356" height="336" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="24.5" y="323.5" width="356" height="336" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.796"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_XR_XS_Max_11_25">
+      <rect width="414" height="896"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_XR_XS_Max_11_25" data-name="iPhone XR/XS Max/11 – 25" clip-path="url(#clip-iPhone_XR_XS_Max_11_25)">
+    <rect width="414" height="896" fill="#faf5f8"/>
+    <g id="Component_79" data-name="Component 79">
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="415" height="93" fill="#faa47a"/>
+      <g id="Settings" transform="translate(286.208 36.308)" opacity="0.3">
+        <rect id="Rectangle_193" data-name="Rectangle 193" width="19" height="20" transform="translate(-0.208 -0.308)" fill="none"/>
+        <path id="Path_104" data-name="Path 104" d="M269,12.006a2.4,2.4,0,1,0-2.4-2.4A2.408,2.408,0,0,0,269,12.006Zm-4.922-7.684a6.771,6.771,0,0,1,2.881-1.561L267.924,0h2.4l.96,2.761a8.383,8.383,0,0,1,2.881,1.561l2.881-.6,1.2,2.161-1.921,2.161a6.846,6.846,0,0,1,.12,1.561c0,.48-.12,1.081-.12,1.561l1.921,2.161-1.2,2.161-2.881-.6a6.771,6.771,0,0,1-2.881,1.561l-.96,2.761h-2.4l-.96-2.761a8.384,8.384,0,0,1-2.881-1.561l-2.881.6L260,13.326l1.921-2.161A6.846,6.846,0,0,1,261.8,9.6c0-.48.12-1.081.12-1.561L260,5.883l1.2-2.161Z" transform="translate(-258.799 0.743)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <text id="_" data-name="􀎟" transform="translate(108.63 53.828)" fill="#fff" font-size="21" font-family="SFProDisplay-Regular, SF Pro Display" letter-spacing="-0.1em"><tspan x="0" y="0">􀎟</tspan></text>
+      <g id="Symbol_209_4" data-name="Symbol 209 – 4" transform="translate(198 37)" opacity="0.297">
+        <path id="Path_189" data-name="Path 189" d="M5.625,11.25c.563,0,.787.337.338.787L4.275,13.725A6.736,6.736,0,0,0,9,15.75,6.8,6.8,0,0,0,15.75,9.9a1.138,1.138,0,0,1,2.25.225v.225A9,9,0,0,1,9,18a9.408,9.408,0,0,1-6.413-2.588l-1.8,1.8c-.45.45-.788.225-.788-.338V11.813a.531.531,0,0,1,.563-.562Zm6.75-4.5c-.562,0-.788-.338-.338-.787l1.688-1.688A6.736,6.736,0,0,0,9,2.25,6.8,6.8,0,0,0,2.25,8.1,1.069,1.069,0,0,1,1.125,9,1.063,1.063,0,0,1,0,7.875V7.65A9,9,0,0,1,9,0a9.408,9.408,0,0,1,6.412,2.587l1.8-1.8c.45-.45.788-.225.788.338V6.188a.531.531,0,0,1-.562.562Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="June_8_2020" data-name="June 8, 2020" transform="translate(83 245)" fill="#89a97f" font-size="20" font-family="Bilo-Bold, Bilo" font-weight="700"><tspan x="70.76" y="20">June 8, 2020</tspan></text>
+    <g id="Group_31" data-name="Group 31" transform="translate(-17 -994)">
+      <g id="Group_29" data-name="Group 29" transform="translate(69 1345)">
+        <g id="Up">
+          <g transform="matrix(1, 0, 0, 1, -52, -351)" filter="url(#Rectangle_2)">
+            <rect id="Rectangle_2-2" data-name="Rectangle 2" width="311" height="291" transform="translate(52 351)" fill="#ffe4b3"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -52, -351)" filter="url(#Rectangle_3)">
+            <rect id="Rectangle_3-2" data-name="Rectangle 3" width="311" height="291" transform="translate(52 351)" fill="#ffe4b3"/>
+          </g>
+        </g>
+      </g>
+      <text id="Made_my_favourite_instant_noodles" data-name="Made my favourite instant noodles" transform="translate(132 1466)" fill="#ad9a9f" font-size="20" font-family="Bilo-Medium, Bilo" font-weight="500"><tspan x="11.66" y="20">Made my favourite </tspan><tspan x="25.69" y="50">instant noodles</tspan></text>
+    </g>
+  </g>
+</svg>

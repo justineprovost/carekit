@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="896" viewBox="0 0 414 896">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.632" x2="0.5" y2="-0.172" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdca2"/>
+      <stop offset="1" stop-color="#ffc778"/>
+    </linearGradient>
+    <clipPath id="clip-iPhone_XR_XS_Max_11_17">
+      <rect width="414" height="896"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_XR_XS_Max_11_17" data-name="iPhone XR/XS Max/11 – 17" clip-path="url(#clip-iPhone_XR_XS_Max_11_17)">
+    <rect width="414" height="896" fill="#faf5f8"/>
+    <g id="Group_90" data-name="Group 90" transform="translate(-124.261 -111.913)">
+      <path id="Path_678" data-name="Path 678" d="M223.358,361.373l108.879,54.44V524.692l-108.879-54.44Z" transform="translate(0 65.006)" fill="#f79065"/>
+      <path id="Path_679" data-name="Path 679" d="M266.334,415.813V524.692l108.879-54.44V361.373Z" transform="translate(65.903 65.006)" fill="#a8d29e"/>
+      <path id="Path_677" data-name="Path 677" d="M223.358,394.325l108.879-54.44,108.877,54.44-108.877,54.44Z" transform="translate(0 32.055)" fill="#a3553c"/>
+      <circle id="Ellipse_306" data-name="Ellipse 306" cx="61.217" cy="61.217" r="61.217" transform="translate(271.021 318.982)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_307" data-name="Ellipse 307" cx="61.217" cy="61.217" r="61.217" transform="translate(271.021 318.982)" fill="url(#linear-gradient)"/>
+      <path id="Path_680" data-name="Path 680" d="M316.03,347.669a13.7,13.7,0,0,0-.365-3.18,15.829,15.829,0,0,0-30.027-1.507.311.311,0,0,1-.585,0,15.829,15.829,0,0,0-30.027,1.507,13.561,13.561,0,0,0-.362,3.18c0,.248,0,.517.02.768-.02.307-.02.593-.02.9,0,17.071,30.688,41.7,30.688,41.7s30.683-24.631,30.683-41.7c0-.306,0-.593-.02-.9C316.03,348.186,316.03,347.922,316.03,347.669Z" transform="translate(48.007 21.274)" fill="#f79065"/>
+    </g>
+    <text id="Just_a_moment_while_we_create_your_kit_" data-name="Just a moment while we create your kit…" transform="translate(109 546)" fill="#89a97f" font-size="20" font-family="Bilo-Bold, Bilo" font-weight="700"><tspan x="7.77" y="20">Just a moment while </tspan><tspan x="10.49" y="50">we create your kit…</tspan></text>
+  </g>
+</svg>
